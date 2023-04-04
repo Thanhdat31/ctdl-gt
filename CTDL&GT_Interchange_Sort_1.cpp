@@ -1,4 +1,5 @@
-﻿void Swap(int& a, int& b) {
+//https://codelearn.io/sharing/cac-thuat-toan-sap-xep-trong-cpp
+void Swap(int& a, int& b) {
     int temp = a;
     a = b;
     b = temp;
